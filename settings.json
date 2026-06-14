@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "quadro11321.aternos.me
-",
+    "ip": "quadro11321.aternos.me",
+
     "port": 36150,
     "version": "1.20.1",
     "try-creative": false
